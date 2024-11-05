@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://olesiavo.github.io/Ihj/sitemap_index.txt
+Sitemap: https://olesiavo.github.io/PvK/sitemap_index.txt
+Sitemap: https://olesiavo.github.io/pDA/sitemap_index.txt
+Sitemap: https://olesiavo.github.io/vCR/sitemap_index.txt
